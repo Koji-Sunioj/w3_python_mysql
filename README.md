@@ -1,4 +1,5 @@
 # w3_python_mysql
+*i apologize for the messy readme. i would upload the self contained SQL file which contains everything, but I have some problem with my software. i will fix it soon.*
 
 to produce the same visuals as I did in the Jupyter notebook, please use these steps:
 
